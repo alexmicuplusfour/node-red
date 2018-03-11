@@ -106,7 +106,7 @@ module.exports = {
     // Default: 5mb
     //apiMaxLength: '5mb',
 
-    // If you installed the optional node-red-dashboard you can set it's path
+    // If you installed the optional node-red-dashboard you can set its path
     // relative to httpRoot
     //ui: { path: "ui" },
 
